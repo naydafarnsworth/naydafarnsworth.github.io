@@ -4,6 +4,6 @@
 
 <h2> Student at Colgate University </h2>
 
-<p> welcome to my personal website </p>
+<p> welcome to my personal website. i will outline my personal projects here. </p>
 
 </html>
