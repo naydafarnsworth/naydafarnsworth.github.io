@@ -1,8 +1,13 @@
- <!DOCTYPE html>
+<html>
+ 
+<head> 
+    <title>Text alignment</title> 
+</head> 
+<body> 
+    <h1 align="center">Nayda Farnsworth</h1> 
+</body> 
 
-<h1> Nayda Farnsworth </h1>
-
-<h2> Student at Colgate University </h2>
+<h2> S at Colgate University </h2>
 
 <h3> #3 </h3>
 
@@ -13,3 +18,5 @@
 <h6> #6 </h6>
 
 <p> welcome to my personal website </p>
+
+</html>
