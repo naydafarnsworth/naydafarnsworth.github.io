@@ -1,11 +1,8 @@
 <html>
  
-<head> 
-    <title>Text alignment</title> 
-</head> 
-<body> 
-    <h1 align="center">Nayda Farnsworth</h1> 
-</body> 
+
+<h1 align="center">Nayda Farnsworth</h1> 
+
 
 <h2> S at Colgate University </h2>
 
